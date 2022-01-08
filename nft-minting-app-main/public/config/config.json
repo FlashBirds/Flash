@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEC4E2473596971Fe7Efa4e54236372fFF34ffAC0",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xec4e2473596971fe7efa4e54236372fff34ffac0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Flash Birds",
+  "SYMBOL": "FBNFT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/flash-birds",
+  "SHOW_BACKGROUND": true
+}
